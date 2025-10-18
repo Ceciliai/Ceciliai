@@ -31,17 +31,17 @@ I love building clean, scalable digital experiences that bridge **usability**, *
 
 ### Projects
 
-**🧗‍♀️ BouBou – Bouldering Tracker & Social App (Swift, Firebase)**  
+**🧗‍♀️ BouBou – Bouldering Tracker & Social App (Swift, Firebase)(https://github.com/Ceciliai/BouBou)**  
 - Full-stack iOS app (10,000+ LOC) supporting climbing progress tracking, global leaderboard, and social interaction.  
 - Designed 10+ UI screens with 120+ components using **UIKit & Storyboard**, and integrated **Firebase** for auth, sync, and media storage.  
 - Currently developing an **AI climbing assistant** to analyze uploaded climb photos and suggest personalized tips.  
 
-**🐾 Paws & Claws Reminder App (Kotlin, Android Studio)**  
+**🐾 Paws & Claws Reminder App (Kotlin, Android Studio)(https://github.com/Ceciliai/Paws-Claws-Reminder)**  
 - Built a pet care reminder app with real-time **Firebase sync** and **SMS notifications**.  
 - Developed 8+ UI screens (5,000+ LOC) and implemented an **MVC-style architecture** with modular adapters.  
 - Automated build process using **Gradle**.  
 
-**🥫 Food Bank Resource Platform (HTML, CSS, JavaScript)**  
+**🥫 Food Bank Resource Platform (HTML, CSS, JavaScript)(https://github.com/Ceciliai/project-kack)**  
 - Developed a responsive web app connecting Seattle food banks and donors with **role-based authentication**, **real-time routing**, and **Firebase backend**.  
 - Built login, donation board, and map integration modules; contributed 8,000+ lines to a 35,000+ LOC project.  
 - Focused on **accessibility**, **responsiveness**, and **clean data flow**.  
