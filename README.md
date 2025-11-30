@@ -4,7 +4,7 @@ Welcome to my GitHub!
 I’m an Informatics student at the **University of Washington**, focusing on **Human–Computer Interaction (HCI)**, **mobile development**, and **AI-assisted design**.  
 I love building clean, scalable digital experiences that bridge **usability**, **intelligence**, and **system architecture**.
 
---
+---
 ## Representative Projects & Experience (Quick Overview)
 (A fast directory of what I’ve built and where I applied my skills — full details below)
 
