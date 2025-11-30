@@ -8,17 +8,17 @@ I love building clean, scalable digital experiences that bridge **usability**, *
 ## Representative Projects & Experience (Quick Overview)
 (A fast directory of what I’ve built and where I applied my skills — full details below)
 
-**BouBou — iOS Climbing App** — Applied SwiftUI, UIKit, Firebase auth/sync, AI-based image analysis to build a 10,000+ LOC mobile product.
-
-**Paws & Claws — Android Pet Care App** — Built Android features using Kotlin, Firebase real-time sync, SMS notifications, and a modular MVC architecture.
-
-**Food Bank Resource Platform — Web Application** — Developed web features with HTML/CSS/JS, Firebase authentication, and real-time routing for donors and food banks.
-
 **Aeyesafe — Mobile Developer Intern** — Strengthened SwiftUI, MVVM refactoring, API integration patterns, and collaborative code review skills.
 
 **EasyTransfer — Frontend Engineering Intern** — Improved onboarding flows using HTML/CSS/JS, usability analysis, retention metrics, and A/B testing.
 
 **Mobalytics — Data Visualization Extern** — Analyzed game behavior using Python, built dashboards, and interpreted UX patterns to support design decisions.
+
+**BouBou — iOS Climbing App** — Applied SwiftUI, UIKit, Firebase auth/sync, AI-based image analysis to build a 10,000+ LOC mobile product.
+
+**Paws & Claws — Android Pet Care App** — Built Android features using Kotlin, Firebase real-time sync, SMS notifications, and a modular MVC architecture.
+
+**Food Bank Resource Platform — Web Application** — Developed web features with HTML/CSS/JS, Firebase authentication, and real-time routing for donors and food banks.
 
 ---
 
