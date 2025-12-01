@@ -7,24 +7,26 @@ My current technical focus is on **SwiftUI/UIKit**for iOS, **Kotlin** for Androi
 I love building clean, scalable digital experiences that bridge usability, intelligence, and system architecture.
 
 ---
-### Representative Projects & Experience (Quick Overview)
+## Representative Projects & Experience (Quick Overview)
 (A fast directory of what I’ve built and where I applied my skills — full details below)
 
 1. **Aeyesafe — Mobile Developer Intern** — Used **SwiftUI** and MVVM refactoring to strengthen core app architecture, improve API patterns, and support code reviews.
 
 2. **EasyTransfer — Frontend Engineering Intern** — Used **HTML/CSS/JavaScript** to improve onboarding flows, support usability analysis, and run A/B tests.
 
-3. **Mobalytics — Data Visualization Extern** — Applied **Python** and dashboard tooling to analyze game behavior and interpret UX patterns for design decisions.
+3. **BouBou — iOS Climbing App** — Built with **SwiftUI, UIKit, and Firebase** (auth/sync); added AI-based image analysis for a 10,000+ LOC mobile product.
 
-4. **BouBou — iOS Climbing App** — Built with **SwiftUI, UIKit, and Firebase** (auth/sync); added AI-based image analysis for a 10,000+ LOC mobile product.
+4. **Paws & Claws — Android Pet Care App** — Developed **Android** features using **Kotlin**, Firebase real-time sync, SMS notifications, and a modular MVC design.
 
-6. **Paws & Claws — Android Pet Care App** — Developed **Android** features using **Kotlin**, Firebase real-time sync, SMS notifications, and a modular MVC design.
+5. **Food Bank Resource Platform — Web Application** — Built with **HTML/CSS/JS and Firebase** backend to support real-time donation routing and authentication.
 
-6. **Food Bank Resource Platform — Web Application** — Built with **HTML/CSS/JS and Firebase** backend to support real-time donation routing and authentication.
+The sections below provide the full descriptions of each internship and project listed above.
 
 ---
 
-### Professional Experience (full details)
+## Full Experience & Project Details
+
+(Expanded descriptions of internships, major projects, and technical responsibilities)
 
 **Aeyesafe — Mobile Developer Intern (Remote)**  
 *Jul 2025 – Present*  
