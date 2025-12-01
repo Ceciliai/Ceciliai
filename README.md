@@ -15,7 +15,7 @@ I love building clean, scalable digital experiences that bridge usability, intel
 
 3. **Mobalytics — Data Visualization Extern** — Applied **Python** and dashboard tooling to analyze game behavior and interpret UX patterns for design decisions.
 
-4.** BouBou — iOS Climbing App** — Built with **SwiftUI, UIKit, and Firebase** (auth/sync); added AI-based image analysis for a 10,000+ LOC mobile product.
+4. **BouBou — iOS Climbing App** — Built with **SwiftUI, UIKit, and Firebase** (auth/sync); added AI-based image analysis for a 10,000+ LOC mobile product.
 
 6. **Paws & Claws — Android Pet Care App** — Developed **Android** features using **Kotlin**, Firebase real-time sync, SMS notifications, and a modular MVC design.
 
