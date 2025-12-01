@@ -7,7 +7,7 @@ My current technical focus is on **SwiftUI/UIKit**for iOS, **Kotlin** for Androi
 I love building clean, scalable digital experiences that bridge usability, intelligence, and system architecture.
 
 ---
-## Representative Projects & Experience (Quick Overview)
+### Representative Projects & Experience (Quick Overview)
 (A fast directory of what I’ve built and where I applied my skills — full details below)
 
 1. **Aeyesafe — Mobile Developer Intern** — Used **SwiftUI** and MVVM refactoring to strengthen core app architecture, improve API patterns, and support code reviews.
@@ -24,7 +24,7 @@ I love building clean, scalable digital experiences that bridge usability, intel
 
 ---
 
-### Professional Experience
+### Professional Experience (full details)
 
 **Aeyesafe — Mobile Developer Intern (Remote)**  
 *Jul 2025 – Present*  
@@ -47,7 +47,7 @@ I love building clean, scalable digital experiences that bridge usability, intel
 
 ---
 
-### Projects
+### Projects (full details)
 
 **🧗‍♀️ BouBou – Bouldering Tracker & Social App (Swift, Firebase)(https://github.com/Ceciliai/BouBou)**  
 - Full-stack iOS app (10,000+ LOC) supporting climbing progress tracking, global leaderboard, and social interaction.  
