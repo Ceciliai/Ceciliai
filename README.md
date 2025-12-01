@@ -9,17 +9,17 @@ I love building clean, scalable digital experiences that bridge usability, intel
 ## Representative Projects & Experience (Quick Overview)
 (A fast directory of what I’ve built and where I applied my skills — full details below)
 
-**Aeyesafe — Mobile Developer Intern** — Strengthened SwiftUI, MVVM refactoring, API integration patterns, and collaborative code review skills.
+1. **Aeyesafe — Mobile Developer Intern** — Used **SwiftUI** and MVVM refactoring to strengthen core app architecture, improve API patterns, and support code reviews.
 
-**EasyTransfer — Frontend Engineering Intern** — Improved onboarding flows using HTML/CSS/JS, usability analysis, retention metrics, and A/B testing.
+2. **EasyTransfer — Frontend Engineering Intern** — Used **HTML/CSS/JavaScript** to improve onboarding flows, support usability analysis, and run A/B tests.
 
-**Mobalytics — Data Visualization Extern** — Analyzed game behavior using Python, built dashboards, and interpreted UX patterns to support design decisions.
+3. **Mobalytics — Data Visualization Extern** — Applied **Python** and dashboard tooling to analyze game behavior and interpret UX patterns for design decisions.
 
-**BouBou — iOS Climbing App** — Applied SwiftUI, UIKit, Firebase auth/sync, AI-based image analysis to build a 10,000+ LOC mobile product.
+4.** BouBou — iOS Climbing App** — Built with **SwiftUI, UIKit, and Firebase** (auth/sync); added AI-based image analysis for a 10,000+ LOC mobile product.
 
-**Paws & Claws — Android Pet Care App** — Built Android features using Kotlin, Firebase real-time sync, SMS notifications, and a modular MVC architecture.
+6. **Paws & Claws — Android Pet Care App** — Developed **Android** features using **Kotlin**, Firebase real-time sync, SMS notifications, and a modular MVC design.
 
-**Food Bank Resource Platform — Web Application** — Developed web features with HTML/CSS/JS, Firebase authentication, and real-time routing for donors and food banks.
+6. **Food Bank Resource Platform — Web Application** — Built with **HTML/CSS/JS and Firebase** backend to support real-time donation routing and authentication.
 
 ---
 
