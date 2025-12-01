@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Haiyi (Cecilia) Luo
 
-Welcome to my GitHub!  
-I’m an Informatics student at the **University of Washington**, focusing on **Human–Computer Interaction (HCI)**, **mobile development**, and **AI-assisted design**.  
-I love building clean, scalable digital experiences that bridge **usability**, **intelligence**, and **system architecture**.
+Welcome to my GitHub!
+I’m an Informatics student at the University of Washington, focusing on Human–Computer Interaction (HCI), **mobile development**, and **AI-assisted design**.  
+My current technical focus is on **SwiftUI/UIKit**for iOS, **Kotlin** for Android, and full-stack development with **JavaScript/React** and Firebase.  
+I love building clean, scalable digital experiences that bridge usability, intelligence, and system architecture.
 
 ---
 ## Representative Projects & Experience (Quick Overview)
