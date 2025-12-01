@@ -28,6 +28,8 @@ The sections below provide the full descriptions of each internship and project 
 
 (Expanded descriptions of internships, major projects, and technical responsibilities)
 
+### Professional experience (full details)
+
 **Aeyesafe — Mobile Developer Intern (Remote)**  
 *Jul 2025 – Present*  
 - Refactored a legacy iOS codebase (6,000+ personal lines) into a modular MVVM architecture with **dependency injection** and unified **APIClient** design.  
