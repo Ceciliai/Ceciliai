@@ -86,7 +86,7 @@ The sections below provide the full descriptions of each internship and project 
 ### Core Strengths
 
 - **Strong foundation in algorithms and data structures**, enabling efficient and scalable system design.  
-- Skilled at adapting to **new technologies quickly** — whether iOS, Android, or web frameworks — and delivering production-quality results under tight timelines.  
+- Skilled at adapting to **new technologies quickly**, whether iOS, Android, or web frameworks, and delivering production-quality results under tight timelines.  
 - Experienced in both **individual and collaborative development**, with an emphasis on architecture clarity, testing, and maintainability.  
 - Passionate about blending **AI-driven UX**, clean code, and thoughtful interaction design.
 
