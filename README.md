@@ -65,11 +65,13 @@ I love building clean, scalable digital experiences that bridge usability, intel
 
 ---
 
+
 ### Technical Skills
 
-**Languages:** Java, Swift, Kotlin, JavaScript, HTML/CSS, Python, SQL, C/C++  
-**Tools & Frameworks:** Firebase, Xcode, Android Studio, React, Redux, TypeScript, Gradle, Git/GitHub, Figma, Google Cloud Platform  
-**Concepts:** REST APIs, MVC/MVVM architecture, UI/UX design, cross-functional collaboration, scalable front-end state management  
+**Main Skills:** Swift, Kotlin, Java, JavaScript, HTML/CSS, Python
+**Tools & Frameworks (Primary Use):** Xcode, Android Studio, Firebase, React, Redux, Git/GitHub, Gradle
+**Tools & Frameworks (Familiar / Occasional Use):** TypeScript, C/C++, SQL, Figma, Google Cloud Platform
+**Core Concepts:** REST APIs, MVC/MVVM architecture, UI/UX design, scalable system design, cross-functional collaboration, scalable front-end state management  
 
 ---
 
