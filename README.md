@@ -19,6 +19,8 @@ I love building clean, scalable digital experiences that bridge usability, intel
 4. **Paws & Claws — Android Pet Care App** — Developed **Android** features using **Kotlin**, Firebase real-time sync, SMS notifications, and a modular MVC design.
 
 5. **Food Bank Resource Platform — Web Application** — Built with **HTML/CSS/JS and Firebase** backend to support real-time donation routing and authentication.
+   
+6. **Wordplay Research Group — Undergraduate Research Participant** — Contributed to a multilingual programming platform by analyzing accessibility, translation, and user experience for diverse learners.
 
 The sections below provide the full descriptions of each internship and project listed above.
 
@@ -47,7 +49,14 @@ The sections below provide the full descriptions of each internship and project 
 **Mobalytics — Data Visualization & Analysis Extern (Remote)**  
 *Jul 2023 – Oct 2023*  
 - Analyzed player behavior across 10+ popular games to identify **UX patterns** and growth metrics.  
-- Built **data dashboards** and supported UI redesigns for improved visualization clarity.  
+- Built **data dashboards** and supported UI redesigns for improved visualization clarity.
+
+**Wordplay Research Group — Undergraduate Research Participant (Seattle, WA)**  
+*Sep 2025 – Present*  
+- Contribute to a multilingual, accessible programming platform designed for learners worldwide.  
+- Analyze how translation choices and interface design impact clarity, accessibility, and inclusiveness for users from diverse linguistic backgrounds.  
+- Identify and document user-facing issues in multilingual interfaces and propose improvements for more equitable and intuitive design.  
+- Collaborate with the research team in discussions on accessibility, global programming education, and justice-centered computing.
 
 ---
 
